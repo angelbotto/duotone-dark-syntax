@@ -1,13 +1,13 @@
 {
   "name": "duotone-darkpool-syntax",
   "theme": "syntax",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Duotone darkpool",
   "keywords": [
     "syntax",
     "theme",
     "duotone",
-    "darkpool"
+    "darkpool",
     "dianaaparicio"
   ],
   "repository": "https://github.com/angelbotto/duotone-darkpool-syntax",
